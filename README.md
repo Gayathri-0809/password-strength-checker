@@ -21,6 +21,11 @@ A simple Flask web app that analyzes your password strength based on entropy, le
 
 ---
 
+## 🖼️ Preview
+
+![App Screenshot](static/screenshot.png)
+
+
 ## 🛠 How to Run
 
 1️⃣ Clone this repository:
